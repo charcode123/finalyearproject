@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wrist
+  - ThumbJoint_0
+  - ThumbJoint_1
+  - ThumbJoint_2
+  - IndexJoint_0
+  - IndexJoint_1
+  - IndexJoint_2
+  - MiddleJoint_0
+  - MiddleJoint_1
+  - MiddleJoint_2
+  - RingJoint_0
+  - RingJoint_1
+  - RingJoint_2
+  - PinkyJoint_0
+  - PinkyJoint_1
+  - PinkyJoint_2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

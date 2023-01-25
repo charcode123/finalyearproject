@@ -1,0 +1,9 @@
+[submodule "DataAcquisition/lib/mpu9250"]
+	path = DataAcquisition/lib/mpu9250
+	url = git@github.com:bolderflight/mpu9250.git
+[submodule "DataAcquisition/lib/eigen"]
+	path = DataAcquisition/lib/eigen
+	url = git@github.com:bolderflight/eigen.git
+[submodule "DataAcquisition/lib/units"]
+	path = DataAcquisition/lib/units
+	url = git@github.com:bolderflight/units.git
